@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KataHRD", "KataHRD\KataHRD.csproj", "{6576AD8C-0701-4CEA-9267-1AA48A7C2CA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KataHRDTests", "KataHRDTests\KataHRDTests.csproj", "{AD865D71-4BB9-4B42-853B-6B692E0C0C68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6576AD8C-0701-4CEA-9267-1AA48A7C2CA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6576AD8C-0701-4CEA-9267-1AA48A7C2CA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6576AD8C-0701-4CEA-9267-1AA48A7C2CA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6576AD8C-0701-4CEA-9267-1AA48A7C2CA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD865D71-4BB9-4B42-853B-6B692E0C0C68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD865D71-4BB9-4B42-853B-6B692E0C0C68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD865D71-4BB9-4B42-853B-6B692E0C0C68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD865D71-4BB9-4B42-853B-6B692E0C0C68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DCB6C34-43CF-4EAA-9011-D75782735D1D}
+	EndGlobalSection
+EndGlobal
